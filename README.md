@@ -1,3 +1,3 @@
-# proactive-compliance
+# proactive-resilience
 
-Master framework documentation for compliance modules.
+Master framework documentation for resilience modules.
