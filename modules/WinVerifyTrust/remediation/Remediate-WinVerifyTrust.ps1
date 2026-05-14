@@ -1,4 +1,4 @@
-# Description: This is a remediation script used to configure the WinVerifyTrust registry keys to enable certificate padding checks.
+# Description: Remediation script used to configure the WinVerifyTrust registry keys to enable certificate padding checks.
 
 try {
     $registryPaths = @(
