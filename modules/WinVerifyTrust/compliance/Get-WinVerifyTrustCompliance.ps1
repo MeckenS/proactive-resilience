@@ -5,7 +5,5 @@ $WinVerifyTrustSigValEnabled = ([int]$enable64 -eq 1) -and ([int]$enable32 -eq 1
 
 $hash = @{
     WinVerifyTrustSigValEnabled = $WinVerifyTrustSigValEnabled
-
 }
-
 return $hash | ConvertTo-Json -Compress
